@@ -18,7 +18,13 @@
 
 ## General Summary & Insights
 
-- Most Borrowers who are employed earn around 50k USD & above
+- Most Borrowers who are employed earn around 50k USD - 74,999k USD
+
+- There are more Home Owners than Non Home Owners among our borrowers
+
+- There are more employed borrowers than non-employed borrowers
+
+-Majority of applicatns who have current & completed loans, falls under the Employed & Full-time Employment Status
 
 - Borrowers with high credit rating (AA, A B) have higher chances of getting a loan than borrowers who do not
 
@@ -27,6 +33,10 @@
 - Home Ownership and Gainful Employment serves as useful factors in predicting a successful loan application status
 
 - Home Ownership and Gainful Employment are also useful predictors of loan interrest rate. Borrowers who satisfy these features tend to attract lower interest rate than thsoe who do not. This is not surprsing as higher risk attracts higher interest rate.
+
+- The distribution of the loan origin amount was massively skewed to the right. with its highest peak between 4000-5000 USD
+
+-The chart was right-skewed ondicating that most of the borrowers realtively are low income earners, significantly, they earn aroundn $100
 
 ## Conclusion & Limitations
 
