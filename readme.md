@@ -24,7 +24,7 @@
 
 - There are more employed borrowers than non-employed borrowers
 
--Majority of applicatns who have current & completed loans, falls under the Employed & Full-time Employment Status
+- Majority of applicants who have current & completed loans, falls under the Employed & Full-time Employment Status
 
 - Borrowers with high credit rating (AA, A B) have higher chances of getting a loan than borrowers who do not
 
@@ -34,9 +34,12 @@
 
 - Home Ownership and Gainful Employment are also useful predictors of loan interrest rate. Borrowers who satisfy these features tend to attract lower interest rate than thsoe who do not. This is not surprsing as higher risk attracts higher interest rate.
 
-- The distribution of the loan origin amount was massively skewed to the right. with its highest peak between 4000-5000 USD
+- The distribution of the loan original amount was massively skewed to the right. with its highest peak between 4000-5000 USD
 
--The chart was right-skewed ondicating that most of the borrowers realtively are low income earners, significantly, they earn aroundn $100
+-The Income chart was right-skewed indicating that most of the borrowers realtively are low income earners, significantly, they earn aroundn $100
+
+- Majority of the Borrowers are applying for loan to reconsolidate existing debt
+
 
 ## Conclusion & Limitations
 
